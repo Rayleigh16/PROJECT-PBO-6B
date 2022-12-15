@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/File%20Kampus/MATERI%20KULIAH/Materi%20Semester%205/Pemrograman%20Berorientasi%20Objek%20A/Code/100%25/Zombie%20Shooter/resources/zombie/attack.gif</file>
+            <file>file:/D:/File%20Kampus/MATERI%20KULIAH/Materi%20Semester%205/Pemrograman%20Berorientasi%20Objek%20A/Code/100%25/Zombie%20Shooter/src/entity/Bullets.java</file>
+            <file>file:/D:/File%20Kampus/MATERI%20KULIAH/Materi%20Semester%205/Pemrograman%20Berorientasi%20Objek%20A/Code/100%25/Zombie%20Shooter/resources/gun/aim.png</file>
+            <file>file:/D:/File%20Kampus/MATERI%20KULIAH/Materi%20Semester%205/Pemrograman%20Berorientasi%20Objek%20A/Code/100%25/Zombie%20Shooter/resources/zombie/bosattack.gif</file>
+            <file>file:/D:/File%20Kampus/MATERI%20KULIAH/Materi%20Semester%205/Pemrograman%20Berorientasi%20Objek%20A/Code/100%25/Zombie%20Shooter/src/GameState/MenuState.java</file>
+            <file>file:/D:/File%20Kampus/MATERI%20KULIAH/Materi%20Semester%205/Pemrograman%20Berorientasi%20Objek%20A/Code/100%25/Zombie%20Shooter/src/Connection/Koneksi.java</file>
+            <file>file:/D:/File%20Kampus/MATERI%20KULIAH/Materi%20Semester%205/Pemrograman%20Berorientasi%20Objek%20A/Code/100%25/Zombie%20Shooter/resources/zombie/walk.gif</file>
+            <file>file:/D:/File%20Kampus/MATERI%20KULIAH/Materi%20Semester%205/Pemrograman%20Berorientasi%20Objek%20A/Code/100%25/Zombie%20Shooter/src/entity/Component.java</file>
+            <file>file:/D:/File%20Kampus/MATERI%20KULIAH/Materi%20Semester%205/Pemrograman%20Berorientasi%20Objek%20A/Code/100%25/Zombie%20Shooter/resources/bullet/0.png</file>
+            <file>file:/D:/File%20Kampus/MATERI%20KULIAH/Materi%20Semester%205/Pemrograman%20Berorientasi%20Objek%20A/Code/100%25/Zombie%20Shooter/src/GameState/GameStateManager.java</file>
+            <file>file:/D:/File%20Kampus/MATERI%20KULIAH/Materi%20Semester%205/Pemrograman%20Berorientasi%20Objek%20A/Code/100%25/Zombie%20Shooter/resources/player/0.png</file>
+            <file>file:/D:/File%20Kampus/MATERI%20KULIAH/Materi%20Semester%205/Pemrograman%20Berorientasi%20Objek%20A/Code/100%25/Zombie%20Shooter/resources/zombie/bos1.gif</file>
+            <file>file:/D:/File%20Kampus/MATERI%20KULIAH/Materi%20Semester%205/Pemrograman%20Berorientasi%20Objek%20A/Code/100%25/Zombie%20Shooter/src/entity/Controller.java</file>
+            <file>file:/D:/File%20Kampus/MATERI%20KULIAH/Materi%20Semester%205/Pemrograman%20Berorientasi%20Objek%20A/Code/100%25/Zombie%20Shooter/resources/graphics/score.png</file>
+            <file>file:/D:/File%20Kampus/MATERI%20KULIAH/Materi%20Semester%205/Pemrograman%20Berorientasi%20Objek%20A/Code/100%25/Zombie%20Shooter/src/graphics/CoverGame.java</file>
+            <file>file:/D:/File%20Kampus/MATERI%20KULIAH/Materi%20Semester%205/Pemrograman%20Berorientasi%20Objek%20A/Code/100%25/Zombie%20Shooter/src/GameState/InputState.java</file>
+            <file>file:/D:/File%20Kampus/MATERI%20KULIAH/Materi%20Semester%205/Pemrograman%20Berorientasi%20Objek%20A/Code/100%25/Zombie%20Shooter/src/GameState/EndGameState.java</file>
+            <file>file:/D:/File%20Kampus/MATERI%20KULIAH/Materi%20Semester%205/Pemrograman%20Berorientasi%20Objek%20A/Code/100%25/Zombie%20Shooter/src/GameState/GamePlay.java</file>
+            <file>file:/D:/File%20Kampus/MATERI%20KULIAH/Materi%20Semester%205/Pemrograman%20Berorientasi%20Objek%20A/Code/100%25/Zombie%20Shooter/src/GameState/GameState.java</file>
+            <file>file:/D:/File%20Kampus/MATERI%20KULIAH/Materi%20Semester%205/Pemrograman%20Berorientasi%20Objek%20A/Code/100%25/Zombie%20Shooter/src/GameState/HighScores.java</file>
+            <file>file:/D:/File%20Kampus/MATERI%20KULIAH/Materi%20Semester%205/Pemrograman%20Berorientasi%20Objek%20A/Code/100%25/Zombie%20Shooter/resources/tile/street.jpg</file>
+            <file>file:/D:/File%20Kampus/MATERI%20KULIAH/Materi%20Semester%205/Pemrograman%20Berorientasi%20Objek%20A/Code/100%25/Zombie%20Shooter/src/Main/Window.java</file>
+            <file>file:/D:/File%20Kampus/MATERI%20KULIAH/Materi%20Semester%205/Pemrograman%20Berorientasi%20Objek%20A/Code/100%25/Zombie%20Shooter/resources/graphics/help.png</file>
+            <file>file:/D:/File%20Kampus/MATERI%20KULIAH/Materi%20Semester%205/Pemrograman%20Berorientasi%20Objek%20A/Code/100%25/Zombie%20Shooter/src/GameState/HelpState.java</file>
+        </group>
+    </open-files>
+</project-private>
